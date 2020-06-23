@@ -1,1 +1,1 @@
-# myDjangoBlog
+# myDjangoBlog whit edite
